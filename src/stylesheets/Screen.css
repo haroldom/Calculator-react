@@ -1,0 +1,14 @@
+.screen-container{
+    width: 100%;
+    height: 67px;
+    border-radius: 50px;
+    border: 5px solid white;
+    background-color: #0A0B25;   
+    font-size: 30px;
+    padding: 10px 20px;
+    text-align: end;
+    color: white;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 20px;
+}

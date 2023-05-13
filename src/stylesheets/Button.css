@@ -1,0 +1,19 @@
+button{
+    color: white;
+    padding: 15px 25px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    background-color: #1B1C37;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 3px solid white;
+}
+
+button:hover{
+    background-color: #5D13AA;
+}
+
+.button-op{
+    background-color: #003C1A;
+}
